@@ -1,0 +1,69 @@
+body {
+  background-color: #1d1d1d;
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 42px;
+  width: 100%;
+  background-color: white;
+}
+.back {
+  height: 100%;
+  font-size: large;
+  border: none;
+  background-color: white;
+  padding-right: 0;
+}
+.yes {
+  position: absolute;
+  margin-top: 3%;
+  right: 0;
+  top: 0;
+  color: wheat;
+  height: 300px;
+  width: 100%;
+}
+.download {
+  width: 100%;
+  height: 20%;
+  background-color: wheat;
+  font-size: large;
+}
+.source {
+  position: absolute;
+  margin-top: 28%;
+  right: 0;
+  top: 0;
+  color: wheat;
+  height: 300px;
+  width: 100%;
+}
+.downloadSource {
+  width: 100%;
+  height: 20%;
+  background-color: wheat;
+  font-size: large;
+}
+.fortnite {
+  position: absolute;
+  margin-top: 16%;
+  right: 0;
+  top: 0;
+  color: wheat;
+  height: 300px;
+  width: 100%;
+}
+.fortniteDownload {
+  width: 100%;
+  height: 20%;
+  background-color: wheat;
+  font-size: large;
+}
+button:hover {
+  background-color: aliceblue;
+}
+button:active {
+  background-color: whitesmoke;
+}

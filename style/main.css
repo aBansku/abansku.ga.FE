@@ -1,0 +1,38 @@
+body {
+  background-color: #1d1d1d;
+}
+
+.navbar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 42px;
+  width: 100%;
+  background-color: white;
+}
+
+.downloads {
+  height: 100%;
+  font-size: large;
+  border: none;
+  background-color: white;
+  padding-right: 0;
+}
+.youtube {
+  font-size: large;
+  height: 100%;
+  border: none;
+  background-color: white;
+}
+.github {
+  font-size: large;
+  height: 100%;
+  border: none;
+  background-color: white;
+}
+button:hover {
+  background-color: aliceblue;
+}
+button:active {
+  background-color: whitesmoke;
+}
